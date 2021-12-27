@@ -1,1 +1,4 @@
-This is the first entry. 
+--- 
+title: New Blog
+date: 2021-12-27
+---
